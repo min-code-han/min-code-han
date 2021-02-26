@@ -1,5 +1,8 @@
 ![스크린샷 2021-02-27 오전 1 55 22](https://user-images.githubusercontent.com/72747026/109330694-4e140480-789f-11eb-927c-f179780db029.png)
 
+
+
+<br>
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
@@ -12,6 +15,14 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 </p>
+<br>
 
+<h3 align="center">Frontend Develoer</h3>
+<p align="center">
+  🎨 &nbsp  코드위에 그림을 그리는 개발자, 한민아 입니다. <br>
+  👩🏻‍💻 &nbsp  사람들의 삶이 더욱 편해지도록 돕는 개발자가 되고 싶습니다. <br>
+</p>
+
+<br>
 <h3 align="center">Contact</h3>
 <p align="center">yegrinaaa@gmail.com</p>
