@@ -1,4 +1,4 @@
-![스크린샷 2021-02-27 오전 1 55 22](https://user-images.githubusercontent.com/72747026/109330694-4e140480-789f-11eb-927c-f179780db029.png)
+![스크린샷 2021-02-27 오전 2 49 47](https://user-images.githubusercontent.com/72747026/109336437-badecd00-78a6-11eb-8841-be8263e97b4e.png)
 
 
 
