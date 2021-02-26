@@ -2,7 +2,7 @@
 
 
 
-<br>
+
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
@@ -26,3 +26,5 @@
 <br>
 <h3 align="center">Contact</h3>
 <p align="center">yegrinaaa@gmail.com</p>
+<br>
+<br>
