@@ -1,4 +1,4 @@
-![스크린샷 2021-02-27 오전 2 49 47](https://user-images.githubusercontent.com/72747026/109336437-badecd00-78a6-11eb-8841-be8263e97b4e.png)
+![git](https://user-images.githubusercontent.com/72747026/113703004-3a1cb780-9715-11eb-9c62-9aeea24dacda.png)
 
 
 <h3 align="center">Tech Stack</h3>
@@ -18,11 +18,12 @@
 
 
 <h3 align="center">Frontend Develoer</h3>
+<br>
 <p align="center">
   🎨 &nbsp  코드위에 그림을 그리는 개발자, 한민아 입니다. <br>
   👩🏻‍💻 &nbsp  사람들의 삶이 더욱 편해지도록 돕는 개발자가 되고 싶습니다. <br>
 </p>
-
+<br>
 
 <h3 align="center">Contact</h3>
 <p align="center">yegrinaaa@gmail.com</p>
