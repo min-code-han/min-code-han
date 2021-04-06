@@ -1,5 +1,11 @@
 ![git](https://user-images.githubusercontent.com/72747026/113703004-3a1cb780-9715-11eb-9c62-9aeea24dacda.png)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">Tech Stack</h3>
 
