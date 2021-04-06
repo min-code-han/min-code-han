@@ -1,8 +1,4 @@
-![git](https://user-images.githubusercontent.com/72747026/113703004-3a1cb780-9715-11eb-9c62-9aeea24dacda.png)
-<br>
-<br>
-<br>
-<br>
+<h1>Minah, Han</h1>
 <br>
 <br>
 <br>
