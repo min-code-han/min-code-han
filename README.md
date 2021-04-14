@@ -27,5 +27,9 @@
 </p>
 <br>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">Contact 👇🏻</h3>
 <p align="center">yegrinaaa@gmail.com</p>
+<br>
+
+<h3 align="center">Portfolio 👇🏻</h3>
+<p align="center">https://www.notion.so/e5224c9ad0774912b0eff364be550121</p>
