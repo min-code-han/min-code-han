@@ -31,13 +31,13 @@
 <p align="center">👉🏻 yegrinaaa@gmail.com</p>
 <br>
 
-<h3 align="center">Portfolio</h3>
+<!-- <h3 align="center">Portfolio</h3>
 <p align="center">https://www.notion.so/e5224c9ad0774912b0eff364be550121</p>
 
 <br>
 
 <h3 align="center">Blog</h3>
-<p align="center">https://velog.io/@mincode_</p>
+<p align="center">https://velog.io/@mincode_</p> -->
 
 <br>
 
